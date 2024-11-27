@@ -27,7 +27,7 @@ arq = ARQ("https://thearq.tech", ARQ_API_KEY, session)
 pornhub = arq.pornhub
 phdl = arq.phdl
 
-app = Client("tony_terabot", bot_token="7050622921:AAFTho868fxMRS03fyluB6xGrSBUFSPzKco", api_id=23054736,
+app = Client("tony_terabot", Bot_token="Bot_token", api_id=23054736,
              api_hash="d538c2e1a687d414f5c3dce7bf4a743c")
 print("\nBot Started!...\n")
 
