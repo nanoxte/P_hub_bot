@@ -28,7 +28,7 @@ pornhub = arq.pornhub
 phdl = arq.phdl
 
 app = Client("Tg_PHub_Bot", bot_token=Bot_token, api_id=6,
-             api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
+             api_hash="d538c2e1a687d414f5c3dce7bf4a743c")
 print("\nBot Started!...\n")
 
 db = {}
